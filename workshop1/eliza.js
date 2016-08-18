@@ -44,7 +44,7 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "Are waffle fries made in a waffle iron?",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
