@@ -1,6 +1,6 @@
 body {
     background-color: rgb(22, 22, 22);
-    color: linen;
+    color: orange;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -48,7 +48,7 @@ img{
     width:70%;
     color: white;
     font-size: 110%;
-    background:gray;
+    background:purple;
     padding: 4px;
     border:1px solid white;
 }
